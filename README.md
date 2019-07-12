@@ -11,3 +11,4 @@
 <p><a href="https://static.chipdip.ru/kits/9000491544/RDC2-0034_sch.png" class="galery"><img src="https://static.chipdip.ru/kits/9000491544/RDC2-0034_sch_800.png" alt="Схема"></a></p>
 <p>Подробную инструкцию по включению и конфигурации усилителя можно найти в разделе «Документы».</p>
 <p>Это открытый проект! Лицензия, под которой он распространяется – <a href="https://creativecommons.org/licenses/by-sa/3.0/" class="link">Creative Commons - Attribution - Share Alike license</a>.</p>
+
