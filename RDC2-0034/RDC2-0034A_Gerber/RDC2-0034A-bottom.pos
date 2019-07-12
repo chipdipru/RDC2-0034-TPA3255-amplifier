@@ -1,8 +1,0 @@
-### Module positions - created on 08/29/18 16:13:36 ###
-### Printed by Pcbnew version pcbnew (5.0.0)
-## Unit = mm, Angle = deg.
-## Side : bottom
-# Ref     Val       Package                PosX       PosY       Rot  Side
-G***      LOGO      graf               -17.9070    53.4670  270.0000  bottom
-G***      LOGO      CD_light_9         -18.1610    69.4690  270.0000  bottom
-## End
